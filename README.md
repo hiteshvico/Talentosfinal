@@ -74,7 +74,7 @@
 - **Video & Chat Sessions** support
 
 ### 🏢 Enterprise Dashboard
-- **Admin Dashboard** with credential-based authentication (admin@kore.com / admin123)
+- **Admin Dashboard** with credential-based authentication (admin / admin)
 - **Manager Dashboard** for team oversight and analytics
 - **Employee Dashboard** with personalized learning insights
 - **Real-time Analytics** on skill development and progress
